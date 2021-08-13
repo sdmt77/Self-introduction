@@ -44,7 +44,7 @@ footer: "**Created by ＠_sdmt**"
 ---
 
 # Work Experience
-- Company：A certain IT company in Tokyo
+- Company：Certain IT company in Tokyo
 - 2014~2017：Maintenance and development of mission-critical systems for insurance companies
     - Job：Developer,Team Leader
 - 2018~2019:In-house service development
