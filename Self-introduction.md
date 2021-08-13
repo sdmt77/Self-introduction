@@ -34,7 +34,7 @@ footer: "**Created by ＠_sdmt**"
 
 # Self-Made Keyboard
 - Corne Cherry
-![height:430](./images/keyboard.jpg)
+![height:430](./images/Keyboard.jpg)
 
 ---
 
