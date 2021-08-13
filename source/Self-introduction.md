@@ -20,7 +20,7 @@ footer: "**Created by ＠_sdmt**"
 ---
 
 # Profile
-![bg right:30%](../image/icon.jpg)
+![bg right:30%](../images/icon.jpg)
 - Name:_sdmt
 - Job:Product Owner,Software Engineer
 - Certification: AWS SAA(SAA-C02)
@@ -34,13 +34,13 @@ footer: "**Created by ＠_sdmt**"
 
 # Self-Made Keyboard
 - Corne Cherry
-![height:430](../image/keyboard.jpg)
+![height:430](../images/keyboard.jpg)
 
 ---
 
 # My Kubernetes Cluster
 - Raspberry Pi Cluster
-![height:430](../image/RaspberryPiCluster.jpg)
+![height:430](../images/RaspberryPiCluster.jpg)
 ---
 
 # Work Experience
